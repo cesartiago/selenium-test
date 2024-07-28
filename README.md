@@ -1,13 +1,15 @@
 # Executar
 node loginTest.js
 
-# Projeto: Testes Automatizados com Selenium
+# Projeto simples: Testes Automatizados com Selenium
 # Descrição
 Este projeto visa desenvolver testes automatizados para um sistema web utilizando Selenium. O foco é simular interações do usuário com o sistema e validar o comportamento correto do sistema.
 
 # Funcionalidades
 > Realizar login automático no sistema SIGAA da UFRRJ.
+
 > Navegar pelo menu "Ensino" e acessar a opção "Consultar Minhas Notas".
+
 > Verificar se a página de notas foi carregada corretamente.
 
 # Pré-requisitos
