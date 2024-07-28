@@ -1,4 +1,4 @@
-# Foi a base para o real
+// Foi a base para o real
 
 require('dotenv').config();
 const { Builder, By, Key, until } = require('selenium-webdriver');
