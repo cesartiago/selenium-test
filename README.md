@@ -2,12 +2,25 @@
 # Descrição
 Este projeto visa desenvolver testes automatizados para o Sistema Integrado de Gestão de Atividades Acadêmicas (SIGAA) utilizando Selenium e Jest. O foco é simular interações do usuário com o sistema e validar o comportamento correto do sistema. Utilizando-se JavaScript com o framework Jest e a biblioteca Selenium WebDriver.
 
-# Funcionalidades no teste
-> Realizar login automático no sistema SIGAA da UFRRJ.
+## Casos de Teste
 
-> Navegar pelo menu "Ensino" e acessar a opção "Consultar Minhas Notas".
+### Testes para o SIGAA
 
-> Verificar se a página de notas foi carregada corretamente.
+#### Teste de Login e Verificação de Usuário Logado
+
+* **Objetivo**: Verificar se o usuário consegue fazer login e se está logado.
+* **Resposta Esperada**: O usuário deve estar logado e um elemento específico deve estar presente na página inicial após o login.
+
+#### Teste de Acesso à Página de Notas
+
+* **Objetivo**: Acessar a página de notas após realizar o login.
+* **Resposta Esperada**: A página de notas deve ser carregada corretamente.
+
+#### Teste de Verificação do Submenu "Consultar Minhas Notas"
+
+* **Objetivo**: Verificar se o submenu "Consultar Minhas Notas" está visível e acessível após o login.
+* **Resposta Esperada**: O submenu "Consultar Minhas Notas" deve estar visível e deve permitir o acesso à página de notas.
+
 
 ## Pré-requisitos
 - Node.js instalado (+nmp)
