@@ -12,13 +12,17 @@ Este projeto visa desenvolver testes automatizados para um sistema web utilizand
 
 # Pré-requisitos
 - Node.js instalado
+  
 - ChromeDriver compatível com a versão do Google Chrome instalada
+
 - Conta no SIGAA da UFRRJ com as credenciais armazenadas em um arquivo .env
+  
 
 # Configuração
-Clone este repositório
-Instale as dependências
-npm install
+Clone este repositório.
+
+Instale as dependências.
+
 Crie um arquivo .env na raiz do projeto com as seguintes variáveis (substitua seu_usuario e sua_senha pelas suas credenciais do SIGAA):
 
 env
