@@ -1,2 +1,0 @@
-# Executar
-node loginTest.js
