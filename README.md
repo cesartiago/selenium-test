@@ -29,6 +29,3 @@ env
 SIGAA_USER=seu_usuario
 SIGAA_PASSWORD=sua_senha
 
-Execução
-Para executar o script de teste automatizado, utilize o seguinte comando:
-node seu-script.js
