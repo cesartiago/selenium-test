@@ -1,4 +1,4 @@
-# Projeto simples: Testes Automatizados com Selenium no Sigaa
+# Projeto: Testes Automatizados com Selenium no Sigaa
 # Descrição
 Este projeto visa desenvolver testes automatizados para o Sistema Integrado de Gestão de Atividades Acadêmicas (SIGAA) utilizando Selenium e Jest. O foco é simular interações do usuário com o sistema e validar o comportamento correto do sistema. Utilizando-se JavaScript com o framework Jest e a biblioteca Selenium WebDriver.
 
