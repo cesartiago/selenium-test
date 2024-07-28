@@ -7,19 +7,20 @@ Este projeto visa desenvolver testes automatizados para o Sistema Integrado de G
 ### Testes para o SIGAA
 
 #### Teste de Login e Verificação de Usuário Logado
-
 * **Objetivo**: Verificar se o usuário consegue fazer login e se está logado.
 * **Resposta Esperada**: O usuário deve estar logado e um elemento específico deve estar presente na página inicial após o login.
 
 #### Teste de Acesso à Página de Notas
-
 * **Objetivo**: Acessar a página de notas após realizar o login.
 * **Resposta Esperada**: A página de notas deve ser carregada corretamente.
 
 #### Teste de Verificação do Submenu "Consultar Minhas Notas"
-
 * **Objetivo**: Verificar se o submenu "Consultar Minhas Notas" está visível e acessível após o login.
 * **Resposta Esperada**: O submenu "Consultar Minhas Notas" deve estar visível e deve permitir o acesso à página de notas.
+
+#### Teste de Cadastro de Novo Tópico no Fórum
+* **Objetivo**: Cadastrar um novo tópico no fórum do SIGAA após o login.
+* **Resposta Esperada**: O novo tópico deve ser criado com sucesso e aparecer na lista de tópicos do fórum.
 
 
 ## Pré-requisitos
